@@ -1,5 +1,5 @@
-@media screen and (max-width: 863){
-    .projects{
+@media screen and (max-width: 863) {
+    .projects {
         -webkit-flex-wrap: none; /* Safari 6.1+ */
         flex-wrap: none;
     }
